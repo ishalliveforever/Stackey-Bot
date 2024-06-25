@@ -1,0 +1,10 @@
+requests
+logging
+discord.py==2.0.0
+Flask==2.1.1
+python-dotenv==0.20.0
+Werkzeug==2.0.3
+git+https://github.com/gitzhou/bsvlib.git#egg=bsvlib
+
+
+
